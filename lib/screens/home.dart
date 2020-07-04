@@ -40,7 +40,7 @@ class _HomeState extends State<Home> {
     if(switching_val){
       this.getuser_Location();
     }else{
-      zipCodeControlled.text = "23" ;
+      zipCodeControlled.text = "20" ;
     }
 
   }
